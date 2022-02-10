@@ -1,14 +1,12 @@
 # Pengalaman-Belajar
 Repository ini berisi pengalaman belajar di Dicoding
 
-14 Juni 2021
-
+**14 Juni 2021**
 Belajar kelas memulai pemprograman dengan java (21%)
 - Belajar ttg java dan alasannya
 - Belajar tools dan bahasa programannya
 
-15 Juni 2021
-
+**15 Juni 2021**
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 
 - Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
